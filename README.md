@@ -1,6 +1,6 @@
 # Website Checklist & Read Me Template
 
-This is a standard website checklist for building any new websites whether it's green or brown field.
+This is a standard website checklist for building any new websites, whether it's green or brown field project.
 
 ## Website Checklist
 
@@ -29,11 +29,11 @@ This is a standard website checklist for building any new websites whether it's 
 
 ## Read Me Template
 
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back-to-top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
+*** That would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
@@ -229,6 +229,12 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- CODE STANDARD -->
+Always use clean coding standards [JS](https://github.com/ryanmcdermott/clean-code-javascript), [TS](https://github.com/labs42io/clean-code-typescript)
+JS: Use [Google style guide](https://google.github.io/styleguide/jsguide.html) or [JS Semistandard](https://github.com/standard/semistandard)
+TS: Use [Google style guide](https://google.github.io/styleguide/tsguide.html)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
